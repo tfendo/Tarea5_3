@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2175785e70344d33be1206c456286dd9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\381af1f5ca2d5518000bd3bb7ee8be57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b41c365782f58358c72e9ac3ff0013d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea50ae6939ed065a7f98cc35a307a6cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\48d767b229295ef1136acdb79e6c3ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bced31211e970fd15a11ed1841e14d33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\48031b2a781e211b8488c7cabd234964\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff02d716a59f1ea2dcd39a0e6da869b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd205146756707a8b9d089c6b3d921c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6ac036792bdd9c00a4bc84ae7c213e2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37d3dc23b23a16b9063ae7e70dadc812\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb2151aa1988075a5ee676279295bb18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ab94b0677778c5e6e3e80f2f3443b30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d79bb6e0db8739df257b384e74187384\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4040fd9f2015a2235db0e581efa872b6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2175785e70344d33be1206c456286dd9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2175785e70344d33be1206c456286dd9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme_Resource.DetailActivity
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:11:9-100
+	android:name
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:11:19-88
+activity#com.example.android.materialme_Resource.MainActivity
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:12:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2175785e70344d33be1206c456286dd9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2175785e70344d33be1206c456286dd9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\381af1f5ca2d5518000bd3bb7ee8be57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\381af1f5ca2d5518000bd3bb7ee8be57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b41c365782f58358c72e9ac3ff0013d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b41c365782f58358c72e9ac3ff0013d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fba3c2bd0fe48fe07fd0e3e300f571f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\24f7cc196855093d73beb129a9ddeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea50ae6939ed065a7f98cc35a307a6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea50ae6939ed065a7f98cc35a307a6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\85c93e18200eff56d63ee39befc78954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\48d767b229295ef1136acdb79e6c3ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\48d767b229295ef1136acdb79e6c3ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bced31211e970fd15a11ed1841e14d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bced31211e970fd15a11ed1841e14d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\48031b2a781e211b8488c7cabd234964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\48031b2a781e211b8488c7cabd234964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff02d716a59f1ea2dcd39a0e6da869b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff02d716a59f1ea2dcd39a0e6da869b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd205146756707a8b9d089c6b3d921c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd205146756707a8b9d089c6b3d921c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6ac036792bdd9c00a4bc84ae7c213e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6ac036792bdd9c00a4bc84ae7c213e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37d3dc23b23a16b9063ae7e70dadc812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37d3dc23b23a16b9063ae7e70dadc812\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb2151aa1988075a5ee676279295bb18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb2151aa1988075a5ee676279295bb18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ab94b0677778c5e6e3e80f2f3443b30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ab94b0677778c5e6e3e80f2f3443b30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d79bb6e0db8739df257b384e74187384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d79bb6e0db8739df257b384e74187384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4040fd9f2015a2235db0e581efa872b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4040fd9f2015a2235db0e581efa872b6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hugo\Desktop\Proyectos_Android\MaterialMe\app\src\main\AndroidManifest.xml
